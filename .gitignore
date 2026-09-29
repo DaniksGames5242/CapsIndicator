@@ -1,0 +1,5 @@
+settings.cfg
+*.exe
+*.pdb
+bin/
+obj/
